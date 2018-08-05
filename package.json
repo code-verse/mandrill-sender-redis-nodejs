@@ -1,0 +1,25 @@
+{
+  "name": "mandrill-sender-redis-nodejs",
+  "version": "1.0.0",
+  "description": "Mandril Sender with Redis Subscriber and NodeJS",
+  "main": "start.js",
+  "dependencies": {
+    "redis": "^2.7.1",
+    "mandrill-api": "1.0.45",
+    "mandrill": "0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-verse/mandrill-sender-redis-nodejs.git"
+  },
+  "author": "Phillip Leonardo <me@phillipleonardo.com> (http://phillipleonardo.com)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/code-verse/mandrill-sender-redis-nodejs/issues"
+  },
+  "homepage": "https://github.com/code-verse/mandrill-sender-redis-nodejs#readme"
+}
