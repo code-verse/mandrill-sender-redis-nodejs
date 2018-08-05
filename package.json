@@ -1,7 +1,7 @@
 {
   "name": "mandrill-sender-redis-nodejs",
   "version": "1.0.0",
-  "description": "Mandril Sender with Redis Subscriber and NodeJS",
+  "description": "Mandrill Sender with Redis Subscriber and NodeJS",
   "main": "start.js",
   "dependencies": {
     "redis": "^2.7.1",
